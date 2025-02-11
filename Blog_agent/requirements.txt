@@ -1,0 +1,8 @@
+crawl4ai
+duckduckgo-search
+spider-client
+wikipedia
+fastapi
+uvicorn
+groq
+python-dotenv
