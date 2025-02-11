@@ -6,3 +6,7 @@ fastapi
 uvicorn
 groq
 python-dotenv
+phidata
+duckduckgo-search
+googlesearch-python
+pycountry
